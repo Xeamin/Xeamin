@@ -24,11 +24,16 @@ Here are some ideas to get you started:
 <li>I'm currently coding in <strong>SQL & Python</strong></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">If there is no green checkbox here, there might be blue ones over there:</h3>
+<p align="left">
+<a href="https://gitlab.com/Xeamin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab" height="30" width="30" /></a>
+</p>
+
+<h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caroline-beltran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caroline-beltran" height="20" width="30" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
