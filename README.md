@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> I'm a brand new Analytics Engineer & Data Analyst
+<h3 align="center"> I'm an Analytics Engineer
 </h3>
 <h4 align="left">A few words about me:</h4>
 <ul>
 <li>Pronouns: she/they</li>
-<li>I just finished learning Data Analytics at <strong>Le Wagon coding bootcamp</strong></li>
+<li>I am dbt developer certified</strong></li>
 <li>I'm currently coding in <strong>SQL & Python</strong></li>
 </ul>
 
